@@ -3,5 +3,5 @@
 ### Untertitel 2
 #### Untertitel 3 
 
-![Bild](/logo.png)
+![Bild](/DSC00007.jpg)
 
